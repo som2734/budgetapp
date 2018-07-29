@@ -1,0 +1,12 @@
+body {
+  p {
+    color: navy;
+    font-family: sans-serif;
+    margin: 0;
+  }
+  .transaction-wrap{
+    display: flex;
+    flex-flow: column;
+    margin-bottom: 10px;
+  }
+}
